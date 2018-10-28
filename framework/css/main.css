@@ -1,9 +1,16 @@
 
 h1{
-    color: black;
+    color:white;
     font-family: cursive;
     text-align: right;
 }
+h3{
+    color:white;
+}
 body{
     font-family:'Indie Flower', cursive;
+    background-color:black;
+}
+.container{
+    offset: 677px;
 }
